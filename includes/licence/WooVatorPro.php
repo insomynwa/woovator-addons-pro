@@ -24,8 +24,8 @@
                 }
     		    update_option("WooVatorPro_lic_Key","") || add_option("WooVatorPro_lic_Key","");
     		    add_action( 'admin_post_WooVatorPro_el_activate_license', [ $this, 'action_activate_license' ] );
-    		    add_action( 'admin_menu', [$this,'InactiveMenu'], 228 );
-                add_action( 'admin_notices', [ $this, 'admin_notice_license_plugin' ] );
+    		    // add_action( 'admin_menu', [$this,'InactiveMenu'], 228 );
+                // add_action( 'admin_notices', [ $this, 'admin_notice_license_plugin' ] );
     	    }
         }
 

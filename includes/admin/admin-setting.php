@@ -1204,19 +1204,19 @@ class Woovator_Admin_Settings_Pro {
 
                 <div class="woovator-document-section">
                     <div class="woovator-column">
-                        <a href="https://themeshas.com/blog-category/woovator/" target="_blank">
-                            <img src="<?php echo WOOVATOR_ADDONS_PL_URL; ?>/includes/admin/assets/images/video-tutorial.jpg" alt="<?php esc_attr_e( 'Video Tutorial', 'woovator-pro' ); ?>">
-                        </a>
+                        <!-- <a href="https://themeshas.com/blog-category/woovator/" target="_blank">
+                            <img src="<?php //echo WOOVATOR_ADDONS_PL_URL; ?>/includes/admin/assets/images/video-tutorial.jpg" alt="<?php //esc_attr_e( 'Video Tutorial', 'woovator-pro' ); ?>">
+                        </a> -->
                     </div>
                     <div class="woovator-column">
-                        <a href="https://demo.themeshas.com/doc/woovator/index.html" target="_blank">
-                            <img src="<?php echo WOOVATOR_ADDONS_PL_URL; ?>/includes/admin/assets/images/online-documentation.jpg" alt="<?php esc_attr_e( 'Online Documentation', 'woovator-pro' ); ?>">
-                        </a>
+                        <!-- <a href="https://demo.themeshas.com/doc/woovator/index.html" target="_blank">
+                            <img src="<?php //echo WOOVATOR_ADDONS_PL_URL; ?>/includes/admin/assets/images/online-documentation.jpg" alt="<?php //esc_attr_e( 'Online Documentation', 'woovator-pro' ); ?>">
+                        </a> -->
                     </div>
                     <div class="woovator-column">
-                        <a href="https://themeshas.com/contact-us/" target="_blank">
-                            <img src="<?php echo WOOVATOR_ADDONS_PL_URL; ?>/includes/admin/assets/images/genral-contact-us.jpg" alt="<?php esc_attr_e( 'Contact Us', 'woovator-pro' ); ?>">
-                        </a>
+                        <!-- <a href="https://themeshas.com/contact-us/" target="_blank">
+                            <img src="<?php //echo WOOVATOR_ADDONS_PL_URL; ?>/includes/admin/assets/images/genral-contact-us.jpg" alt="<?php //esc_attr_e( 'Contact Us', 'woovator-pro' ); ?>">
+                        </a> -->
                     </div>
                 </div>
 
